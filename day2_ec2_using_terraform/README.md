@@ -23,8 +23,8 @@ Learn **Infrastructure as Code (IaC)** by provisioning an AWS EC2 instance using
 ## Screenshots
 <img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/50603612-60fa-4621-81eb-ba01d066705f" />
 <img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/3dd037e3-c7e1-4002-87fa-fe877b907047" />
-<img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/547e3dd8-3ff3-4812-96b5-9b1c53e2b578" />
 <img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/f2879c7f-5372-4041-8ee5-07a71465c8b9" />
+<img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/547e3dd8-3ff3-4812-96b5-9b1c53e2b578" />
 <img width="1918" height="777" alt="terraform" src="https://github.com/user-attachments/assets/f52d997b-bb4d-41fa-be09-5dfd6bab40c0" />
 ## Outcome
 - Successfully automated EC2 provisioning
